@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.a{
+    color: royalblue;
+    font-size: 80px;
+}
+.b{
+    color: crimson;
+    font-size: 80px;
+}
+.c{
+    color: gold;
+    font-size: 80px;
+}
+.d{
+    color: royalblue;
+    font-size: 80px;
+}
+.e{
+    color: green;
+    font-size: 80px;
+}
+.f{
+    color: crimson;
+    font-size: 80px
+}
+.ma{
+    background-color: lightgray;
+    height: 30px;
+    width: 120%;
+    bottom:80px;
+    margin: 0px auto 0px;
+    border-radius: 10000000000000000000000px;
+}
+.oya{
+    font-size: 100%
+}
+
